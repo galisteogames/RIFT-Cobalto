@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Spider-Man is the alias of Peter Parker, an orphan raised by his Aunt May and Uncle Ben in New York City after his parents Richard and Mary Parker died in a plane crash. Stan Lee and Steve Ditko had the character deal with the struggles of adolescence and financial issues.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Homem-Aranha é o pseudônimo de Peter Parker, um órfão criado por sua tia May e tio Ben em Nova York depois que seus pais Richard e Mary Parker morreram em um acidente de avião. Stan Lee e Steve Ditko fizeram o personagem lidar com as lutas da adolescência e questões financeiras.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Spider-Man is the alias of Peter Parker, an orphan raised by his Aunt May and Uncle Ben in New York City after his parents Richard and Mary Parker died in a plane crash. Stan Lee and Steve Ditko had the character deal with the struggles of adolescence and financial issues.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Spider-Man es el alias de Peter Parker, un huérfano criado por su tía May y su tío Ben en la ciudad de Nueva York después de que sus padres, Richard y Mary Parker, murieran en un accidente aéreo. Stan Lee y Steve Ditko hicieron que el personaje lidiara con las luchas de la adolescencia y los problemas financieros.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Spider-Man est le pseudonyme de Peter Parker, un orphelin élevé par sa tante May et son oncle Ben à New York après la mort de ses parents Richard et Mary Parker dans un accident d'avion. Stan Lee et Steve Ditko ont fait face au personnage aux difficultés de l'adolescence et aux problèmes financiers.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Spider-Man ist der Pseudonym von Peter Parker, einem Waisenkind, das von seiner Tante May und Onkel Ben in New York City aufgezogen wurde, nachdem seine Eltern Richard und Mary Parker bei einem Flugzeugabsturz ums Leben gekommen waren. Stan Lee und Steve Ditko ließen den Charakter mit den Kämpfen der Jugend und finanziellen Problemen fertig werden.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Spider-Man</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1962</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Stan Lee, Steve Ditko</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>
