@@ -1,0 +1,76 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The series focuses on the exploits of an unnamed space marine operating under the auspices of the Union Aerospace Corporation (UAC), who fights hordes of demons and the undead in order to save Earth from an apocalyptic invasion.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>A série se concentra nas façanhas de um fuzileiro espacial sem nome operando sob os auspícios da Union Aerospace Corporation (UAC), que luta contra hordas de demônios e mortos-vivos para salvar a Terra de uma invasão apocalíptica.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>The series focuses on the exploits of an unnamed space marine operating under the auspices of the Union Aerospace Corporation (UAC), who fights hordes of demons and the undead in order to save Earth from an apocalyptic invasion.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>La serie se centra en las hazañas de un marine espacial anónimo que opera bajo los auspicios de Union Aerospace Corporation (UAC), que lucha contra hordas de demonios y muertos vivientes para salvar la Tierra de una invasión apocalíptica.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>La série se concentre sur les exploits d'un marine spatial sans nom opérant sous les auspices de l'Union Aerospace Corporation (UAC), qui combat des hordes de démons et de morts-vivants afin de sauver la Terre d'une invasion apocalyptique.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Die Serie konzentriert sich auf die Heldentaten eines namenlosen Space Marines, der unter der Schirmherrschaft der Union Aerospace Corporation (UAC) operiert und Horden von Dämonen und Untoten bekämpft, um die Erde vor einer apokalyptischen Invasion zu retten.</text>
+		</text>
+
+				<text name="info2" extra="true">
+			<text>Doom</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>John Carmack, John Romero</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>ENTWICKLER:</text>
+		</text>
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+</theme>

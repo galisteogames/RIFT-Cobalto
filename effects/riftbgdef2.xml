@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  	<view name="system">
+	  <image name="background" extra="true" ifSubset="systemview:Vista Padrão">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+		 <path>./../assets/artes/540/$system.jpg</path>
+		 <path>./../assets/artes/background/$system.jpg</path>
+         <zIndex>30</zIndex>
+         <storyboard repeat="forever">
+         <animation property="opacity" from="0" to="-2" begin="9550" duration="250" mode="easyOut"/>
+         <animation property="opacity" from="-2" to="1" begin="19100" duration="250" mode="easyOut"/>
+         </storyboard>			 
+      </image>  
+
+	  <image name="background2" extra="true" ifSubset="systemview:Vista Padrão">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+		 <path>./../assets/artes/540/$system.jpg</path>
+		 <path>./../assets/artes/consoles/$system.jpg</path>
+         <zIndex>29</zIndex>
+         <linearSmooth>true</linearSmooth>
+         <color>303033FF</color>
+      </image> 
+
+	  <image name="background" extra="true" ifSubset="systemview:Vista Carrossel Vertical">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+		 <path>./../assets/artes/540/$system.jpg</path>
+		 <path>./../assets/artes/background/$system.jpg</path>
+         <zIndex>30</zIndex>
+         <storyboard repeat="forever">
+         <animation property="opacity" from="0" to="-2" begin="9550" duration="250" mode="easyOut"/>
+         <animation property="opacity" from="-2" to="1" begin="19100" duration="250" mode="easyOut"/>
+         </storyboard>			 
+      </image>  
+
+	  <image name="background2" extra="true" ifSubset="systemview:Vista Carrossel Vertical">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+		 <path>./../assets/artes/540/$system.jpg</path>
+		 <path>./../assets/artes/consoles/$system.jpg</path>
+         <zIndex>29</zIndex>
+         <linearSmooth>true</linearSmooth>
+         <color>303033FF</color>
+      </image>
+
+
+ 
+	</view>
+</theme>
