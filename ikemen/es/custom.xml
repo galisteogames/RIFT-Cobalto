@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Ikemen GO es un motor de juegos de lucha de código abierto que admite recursos del motor M.U.G.E.N., escrito en el lenguaje de programación Go de Google. Es una reescritura completa de un motor anterior conocido simplemente como Ikemen.</text>
+		</text>
+		
+					
+		<text name="info2" extra="true">
+			<text>Ikemen GO</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2016</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Ikemen GO</text>
+		</text>			
+	</view>
+</theme>
