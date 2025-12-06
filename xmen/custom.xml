@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Are a superhero team appearing in American comic books published by Marvel Comics, first appearing in The X-Men #1 by artist/co-plotter Jack Kirby and writer/editor Stan Lee in 1963. Following its 1975 revival and subsequent direction under writer Chris Claremont, it became one of the most recognizable and successful franchises of Marvel Comics.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>É uma equipe de super-heróis que aparece nos quadrinhos pela primeira vez em The X-Men #1 pelo artista/co-plotter Jack Kirby e escritor/editor Stan Lee em 1963. Após seu renascimento em 1975 e direção sob o escritor Chris Claremont, tornou-se uma das franquias mais reconhecidas e bem-sucedidas da Marvel Comics.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Are a superhero team appearing in American comic books published by Marvel Comics, first appearing in The X-Men #1 by artist/co-plotter Jack Kirby and writer/editor Stan Lee in 1963. Following its 1975 revival and subsequent direction under writer Chris Claremont, it became one of the most recognizable and successful franchises of Marvel Comics.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Son un equipo de superhéroes, apareciendo por primera vez en The X-Men # 1 por el artista/co-guionista Jack Kirby y el escritor/editor Stan Lee en 1963. Luego de su renacimiento en 1975 y posterior dirección bajo el escritor Chris Claremont, se convirtió en una de las franquicias más reconocidas y exitosas de Marvel Comics.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Sont une équipe de super-héros, apparaissant pour la première fois dans The X-Men # 1 par l'artiste / co-traceur Jack Kirby et l'écrivain / éditeur Stan Lee en 1963. Après sa renaissance en 1975 et sa direction ultérieure sous l'écrivain Chris Claremont, il est devenu l'une des franchises les plus reconnaissables et les plus réussies de Marvel Comics.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Sind ein Superhelden-Team, das erstmals 1963 in The X-Men # 1 des Künstlers / Co-Plotters Jack Kirby und des Autors / Herausgebers Stan Lee auftrat. Nach seiner Wiederbelebung im Jahr 1975 und der anschließenden Regie unter dem Autor Chris Claremont wurde es zu einem der bekanntesten und erfolgreiche Franchises von Marvel Comics.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>X-Men</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1963</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Stan Lee, Jack Kirby</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>
