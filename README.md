@@ -8,8 +8,8 @@ Criado por Fagner (AlekFull), exclusivo para as imagens Galisteo Cobalto. RIFT-C
 # Opções de visualização da lista de jogos
 
 RIFT-Cobalto vem com 10 diferentes opções de visualização da lista de jogos (Coinops padrão, Coinops Detalhado, NFLIX, Gamecarousel e etc.). 
-![Imagem ![Imagem do WhatsApp de 2025-12-06 à(s) 20 43 47_bcb46f4b](https://github.com/user-attachments/assets/522cefc1-7dec-404f-9e37-0419aca1ac04)
-![Imagem do WhatsApp de 2025-12-06 à(s) 20 43 47_bcb46f4b](https://github.com/user-attachments/assets/a39644d8-5208-41b2-bf7b-d4975faee491)
+![Imagem do WhatsApp de 2025-12-06 à(s) 20 43 47_8a50579e](https://github.com/user-attachments/assets/d5e342da-fcc9-48f0-bdc6-179d159afed0)
+![Imagem do WhatsApp de 2025-12-06 à(s) 20 43 47_bcb46f4b](https://github.com/user-attachments/assets/b8ecc0b1-d9b9-478e-8258-c2ae80661fd1)
 
 
 # Artes exclusivas e suporte a mais de 200 sistemas
