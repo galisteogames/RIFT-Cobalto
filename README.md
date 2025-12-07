@@ -21,7 +21,9 @@ Todas as artes foram feitas respeitando os jogos icônicos da plataforma represe
 
 Todos os sistemas apresentam um personagem clássico em destaque e em movimento.
 ![Imagem do WhatsApp de 2025-12-06 à(s) 20 43 46_19cbea41](https://github.com/user-attachments/assets/fb0efb91-3eda-4ac9-b2d7-31fcac567a91)
-![Imagem do WhatsApp de 2025-12-06 à(s) 20 43 46_faabfc24](https://github.com/user-attachments/assets/800812fa-60b3-4def-bfca-52260e5a9dc9)
+![Imagem do WhatsApp de 2025-12-06 à(s) 20 43 46_b9707bfb](https://github.com/user-attachments/assets/10d866ac-8b95-4896-b25d-1fd244e10723)
+![Imagem do WhatsApp de 2025-12-06 à(s) 20 43 46_4ea61b6f](https://github.com/user-attachments/assets/7c91a0a7-2140-421e-aa6e-10a07f9697dc)
+
 
 # Muitas outras opções
 
